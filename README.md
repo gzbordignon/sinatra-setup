@@ -1,4 +1,4 @@
-# SINATRA SETUP
+# Sinatra setup
 
 * This is a template for Sinatra apps.
 
